@@ -1,0 +1,23 @@
+#imagen1 {
+    padding-top: 100px;
+    width: 30%;
+}
+
+#textoinforpers{
+    padding-left: 100px; 
+    padding-top: 100px;
+}
+
+#tituloinforpers{
+    color: coral;
+}
+
+p {
+    color: coral;
+}
+
+li {color: coral;}
+
+.textocoral{
+    color: coral;
+}
